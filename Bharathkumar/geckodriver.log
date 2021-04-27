@@ -1,0 +1,401 @@
+1616403508910	geckodriver	INFO	Listening on 127.0.0.1:60643
+1616403512163	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofile9ADMN3"
+1616403614878	geckodriver	INFO	Listening on 127.0.0.1:60708
+1616403617953	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofileBbySXM"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616403625215	Marionette	INFO	Listening on port 60716
+1616403626109	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616403634406	Marionette	INFO	Stopped listening on port 60716
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616403741718	geckodriver	INFO	Listening on 127.0.0.1:60771
+1616403744763	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofileiHD6X5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616403751435	Marionette	INFO	Listening on port 60779
+1616403752014	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015A,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A015A,name=PContent::Msg_InsertNewFocusActionId) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0161,name=PContent::Msg_CommitWindowContextTransaction) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A014D,name=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0161,name=PContent::Msg_CommitWindowContextTransaction) Closed channel: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1616404228356	geckodriver	INFO	Listening on 127.0.0.1:49769
+1616404232337	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofilesZDcb6"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616404250655	Marionette	INFO	Listening on port 49777
+1616404251906	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9912, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616404294583	Marionette	INFO	Stopped listening on port 49777
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616404520090	geckodriver	INFO	Listening on 127.0.0.1:49923
+1616404523089	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofileMEUyn5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616404531363	Marionette	INFO	Listening on port 49931
+1616404531571	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 6892, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616404641207	Marionette	INFO	Stopped listening on port 49931
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+le directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616404644479	Marionette	INFO	Listening on port 50037
+1616404644687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Gateway.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Gateway.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Gateway.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+JavaScript error: https://images-eu.ssl-images-amazon.com/images/I/11Y+5x+kkTL._RC|51IWYO5M+zL.js,112nmCqUymL.js,11giXtZCwVL.js,01+z+uIeJ-L.js,014NohEdE7L.js,21NNXfMitSL.js,11GXfd3+z+L.js,11AHlQhPRjL.js,11UNQpqeowL.js,11OREnu1epL.js,11KbZymw5ZL.js,21r53SJg7LL.js,0190vxtlzcL.js,01ezj5Rkz1L.js,11VS-C+YWGL.js,31pOTH2ZMRL.js,01rpauTep4L.js,01zbcJxtbAL.js_.js?AUIClients/AmazonUI&Dj66etiu#page_type-Gateway.319488-T1.309035-T1, line 150: SyntaxError: FontFaceSet.load: Invalid font shorthand
+[Parent 5112, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616404762083	Marionette	INFO	Stopped listening on port 50037
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616404777057	geckodriver	INFO	Listening on 127.0.0.1:50276
+1616404780151	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofileQuZF4Y"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616404786958	Marionette	INFO	Listening on port 50284
+1616404787538	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+JavaScript error: http://greenstech.in/selenium-file/js/app.js, line 252: TypeError: document.getElementById(...) is null
+1616404853721	Marionette	INFO	Stopped listening on port 50284
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616505839784	geckodriver	INFO	Listening on 127.0.0.1:52266
+1616505843221	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofileoXks4d"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+1616505863070	Marionette	INFO	Listening on port 52274
+1616505863501	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 3036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616506069465	Marionette	INFO	Stopped listening on port 52274
+1616506073648	geckodriver	INFO	Listening on 127.0.0.1:52395
+1616506076647	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofilelXrY8x"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616506084004	Marionette	INFO	Listening on port 52403
+1616506084141	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616506212308	Marionette	INFO	Stopped listening on port 52403
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616506293509	geckodriver	INFO	Listening on 127.0.0.1:52495
+1616506296603	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofileqryTrT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616506303486	Marionette	INFO	Listening on port 52504
+1616506303919	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Parent 8548, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616506356043	Marionette	INFO	Stopped listening on port 52504
+1616509446388	geckodriver	INFO	Listening on 127.0.0.1:55665
+1616509449763	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofilel0d68w"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616509471072	Marionette	INFO	Listening on port 55676
+1616509471612	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1616509516053	Marionette	INFO	Stopped listening on port 55676
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616509567092	geckodriver	INFO	Listening on 127.0.0.1:55789
+1616509570078	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofileZEcnkR"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616509577149	Marionette	INFO	Listening on port 55797
+1616509577506	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+[Child 5328, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Child 5328, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:545
+[Parent 11404, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616509692252	Marionette	INFO	Stopped listening on port 55797
+port 55900
+1616509647068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616509660819	Marionette	INFO	Stopped listening on port 55900
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616509684218	geckodriver	INFO	Listening on 127.0.0.1:55973
+1616509687269	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofilebEp9Qv"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616509697451	Marionette	INFO	Listening on port 55981
+1616509697768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1616509740551	Marionette	INFO	Stopped listening on port 55981
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofiled6rk8z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616509741169	Marionette	INFO	Listening on port 56052
+1616509741627	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 775))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 422))
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 988: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1616509761876	Marionette	INFO	Stopped listening on port 56052
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1616655193428	geckodriver	INFO	Listening on 127.0.0.1:50968
+1616655196768	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofilewp8knB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 773))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 422))
+1616655220466	Marionette	INFO	Listening on port 50982
+1616655221196	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 5564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616655427346	Marionette	INFO	Stopped listening on port 50982
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+le directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616655423026	Marionette	INFO	Listening on port 51329
+1616655423398	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.instagram.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+[Parent 10264, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616655752076	Marionette	INFO	Stopped listening on port 51329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ofileToZOwm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1616655580142	Marionette	INFO	Listening on port 51580
+1616655580580	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5872, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1616655712764	Marionette	INFO	Stopped listening on port 51580
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619195982108	geckodriver	INFO	Listening on 127.0.0.1:61977
+1619195984867	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofileALhRy4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619196021143	Marionette	INFO	Listening on port 61988
+1619196021524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619196030662	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619196033432	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619196043399	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[Parent 2584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 2584, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619196116221	Marionette	INFO	Stopped listening on port 61988
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages 1619196120291	Marionette	INFO	Listening on port 62301
+1619196120696	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619196130541	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619196192974	Marionette	INFO	Stopped listening on port 62301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ocal\\Temp\\rust_mozprofilehIa9QZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619196198671	Marionette	INFO	Listening on port 62586
+1619196198834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619196207121	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619196210425	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619196227171	Marionette	INFO	Stopped listening on port 62586
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619196256178	geckodriver	INFO	Listening on 127.0.0.1:62823
+1619196259241	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofileCs7WDd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619196266593	Marionette	INFO	Listening on port 62831
+1619196267107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619196275600	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1619196334895	Marionette	INFO	Stopped listening on port 62831
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619196346665	geckodriver	INFO	Listening on 127.0.0.1:62985
+1619196349727	mozrunner::runner	INFO	Running command: "C:\\Users\\RANJITH\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RANJITH\\AppData\\Local\\Temp\\rust_mozprofilePs4KMy"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619196356638	Marionette	INFO	Listening on port 62993
+1619196357123	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619196365631	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:void(false)'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2106:35
+addAllSources@resource://devtools/server/actors/thread.js:1464:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:204:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:68:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:29:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:411:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:353:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:void(false)'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619196395485	Marionette	INFO	Stopped listening on port 62993
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
